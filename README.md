@@ -1,4 +1,4 @@
 # fileEdit
-DroidScriot project for manipulating files
+DroidScript project for manipulating files
 
 For testing on Android 11
